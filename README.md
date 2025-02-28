@@ -131,6 +131,7 @@ Integration tests
 - help to ensure data flows smoothly between modules and interfaces work as expected.
 
 System testing
+
 -Focus on the entire software system as a whole, including all functionalities and interactions.
 -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 
