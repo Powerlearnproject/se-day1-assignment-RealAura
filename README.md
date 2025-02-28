@@ -132,8 +132,9 @@ Integration tests
 
 System testing
 
--Focus on the entire software system as a whole, including all functionalities and interactions.
--It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+- Focus on the entire software system as a whole, including all functionalities and interactions.
+
+- It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 
 Acceptance tests
 - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
